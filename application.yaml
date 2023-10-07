@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/francoisbourassa/argocd-app-config-main
+    repoURL: https://github.com/francoisbourassa/argocd-app-config-main/blob/main/application.yaml
     targetRevision: HEAD
     path: dev
   destination: 
